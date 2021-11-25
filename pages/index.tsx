@@ -22,7 +22,7 @@ const Home: NextPage = () => {
   return (
     <div className={styles.container}>
       <Head>
-        <title>react-hook-form demos</title>
+        <title>Demo</title>
         <meta name="description" content="Building demos with react-hook-form" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
